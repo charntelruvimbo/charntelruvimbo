@@ -11,7 +11,7 @@ I build reproducible analytical workflows and validated models using R, Python, 
 - Reproducible Data Workflows  
 
 ### 🛠 Technical Tools
-R | Python | SQL | SAS | ggplot2 | Shiny | Tableau
+R | Python | SQL | SAS | ggplot2 | Shiny | Tableau | JMP | SPSS
 
 <!--
 **charntelruvimbo/charntelruvimbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
